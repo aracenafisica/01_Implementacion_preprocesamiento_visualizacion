@@ -1,7 +1,5 @@
 ![](imagenes/UC_FMRI.jpg)
 
-![](imagenes/UC_FMRI.jpg)
-
 ---
 ---
 
